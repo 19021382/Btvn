@@ -1,2 +1,3 @@
-testgit
+Bài tập LTNC ở đây.
+
 
